@@ -1,3 +1,5 @@
+Solutions to https://github.com/cdarwin/go-koans
+
 ## Go Koans
 
 Want to learn Go? Want to do it easily? Want to have fun with it? Want lots of money?
